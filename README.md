@@ -2,12 +2,15 @@
 
 Projet d'école pour la matière *Infographie & 3D*, projet de deuxième année.
 
-Le but du projet est de modéliser un éléphant en 3D en C++ à l'aide de la librairie SOIL.
+Le but du projet est de modéliser un robot en 3D en C++ à l'aide de la librairie SOIL.
+
+Nous avons choisi de modéliser un éléphant, chaque partie de l'éléphant fait appel à des calculs matriciels.
 
 ## Requirements
 
 - Glut
 - MinGW
+- Soil
 
 ## Installation
 
